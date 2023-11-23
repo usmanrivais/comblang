@@ -1,5 +1,8 @@
 # comblang
 Comblang Project App
+# beri keterangan anggotanya
+# beri keterangan tentang aplikasinya
+# beri keterangan manfaat dan cara kerjanya
 
 
 Untuk desain visual, gunakan FIGMA:
