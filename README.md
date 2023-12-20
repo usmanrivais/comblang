@@ -26,5 +26,5 @@ Memberikan dukungan bagi pengembangan keterampilan sosial, komunikasi, dan kerja
 Untuk desain visual, gunakan FIGMA:
 https://www.figma.com/team_invite/redeem/ABeVQ6nRCPO79GznlQcGr4
 
-Video Presentasi:
+Folder file berisi apk, video presentasi, dan assets lainnya (updating):
 https://drive.google.com/drive/folders/1UWYLElpyjBkw7U_4pZaS6nYRIehI_6Qo?usp=sharing
