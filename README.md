@@ -1,4 +1,4 @@
-# comblang
+# Comblang
 Comblang Project App
 # beri keterangan anggotanya
 # beri keterangan tentang aplikasinya
