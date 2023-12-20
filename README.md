@@ -26,6 +26,5 @@ Memberikan dukungan bagi pengembangan keterampilan sosial, komunikasi, dan kerja
 Untuk desain visual, gunakan FIGMA:
 https://www.figma.com/team_invite/redeem/ABeVQ6nRCPO79GznlQcGr4
 
-Fullstack
-Frontend
-Backend
+Video Presentasi:
+https://drive.google.com/drive/folders/1MSSvh90sE1iD_A6ha1bB33M-dZLd6cWe?usp=sharing
