@@ -27,4 +27,4 @@ Untuk desain visual, gunakan FIGMA:
 https://www.figma.com/team_invite/redeem/ABeVQ6nRCPO79GznlQcGr4
 
 Video Presentasi:
-https://drive.google.com/drive/folders/1MSSvh90sE1iD_A6ha1bB33M-dZLd6cWe?usp=sharing
+https://drive.google.com/drive/folders/1UWYLElpyjBkw7U_4pZaS6nYRIehI_6Qo?usp=sharing
