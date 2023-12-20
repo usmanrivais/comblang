@@ -9,9 +9,9 @@ Comblang Project App
 Aplikasi "Comblang Project" memiliki tujuan yang jelas dan berfokus pada membantu mahasiswa dalam menemukan mitra kerja yang sesuai untuk proyek akademik mereka dan memfasilitasi kolaborasi yang efektif.
 
 # Kegunaan
-Memfasilitasi Pertemuan Mahasiswa:
+- Memfasilitasi Pertemuan Mahasiswa:
 Memberikan platform untuk mahasiswa yang ingin mencari, terhubung, dan berkolaborasi dengan mahasiswa lain yang memiliki minat atau keahlian yang serupa atau komplementer.
-Meningkatkan Kolaborasi:
+- Meningkatkan Kolaborasi:
 Mendorong kerja sama antara mahasiswa dari berbagai jurusan dan tingkatan
 Mengoptimalkan Pengalaman Belajar:
 Membantu mahasiswa meraih kesuksesan dalam tugas akademik mereka, meningkatkan hasil belajar mereka, dan memberikan pengalaman yang lebih positif selama masa studi mereka.
