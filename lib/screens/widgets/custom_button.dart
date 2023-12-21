@@ -1,5 +1,3 @@
-// we will use this button in different pages
-
 import 'package:flutter/material.dart';
 import 'package:aplikasi_comblangteam/config/colors.dart';
 import 'dart:math' as math;

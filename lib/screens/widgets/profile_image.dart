@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:aplikasi_comblangteam/config/colors.dart';
 
-// This widget will be used in message detail, thats why i moved it to widgets folder.
 class ProfileImage extends StatelessWidget {
   const ProfileImage({
     Key? key,
@@ -20,7 +19,7 @@ class ProfileImage extends StatelessWidget {
         border: Border.all(width: 1.0, color: kBlack),
       ),
       child: CircleAvatar(
-        backgroundImage: const AssetImage('assets/images/profile_image.jpg'),
+        backgroundImage: const AssetImage('assets/images/comblang.png'),
         radius: radius,
       ),
     );

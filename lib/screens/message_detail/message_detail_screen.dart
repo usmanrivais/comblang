@@ -44,7 +44,7 @@ class MessageDetailScreen extends StatelessWidget {
                     mainAxisSize: MainAxisSize.min,
                     children: [
                       Text(
-                        'Charlie Kelly',
+                        'Muhammad Fadil',
                         style: Theme.of(context).textTheme.headlineSmall,
                       ),
                       const SizedBox(height: 2.0),

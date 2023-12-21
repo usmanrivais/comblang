@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:aplikasi_comblangteam/screens/nav/nav.dart';
+import 'package:aplikasi_comblangteam/screens/login/login.dart';
 import 'dart:math' as math;
 
 import '../../config/colors.dart';
@@ -57,30 +57,12 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                 onPageChanged: _onPageChanged,
               ),
             ),
-            // create dots...
-            // Row(
-            //   mainAxisAlignment: MainAxisAlignment.center,
-            //   children: List.generate(
-            //     3,
-            //     (index) => Container(
-            //       height: 12.0,
-            //       width: 12.0,
-            //       margin: const EdgeInsets.symmetric(horizontal: 3.5),
-            //       decoration: BoxDecoration(
-            //         shape: BoxShape.circle,
-            //         color: _pageIndex == index ? kBlack : null,
-            //         border: Border.all(width: 1.0, color: kBlack),
-            //       ),
-            //     ),
-            //   ),
-            // ),
-            // create button at bottom right...
             Expanded(
               child: GestureDetector(
                 onTap: () => Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => const Nav(),
+                    builder: (context) => Login(),
                   ),
                 ),
                 child: Stack(

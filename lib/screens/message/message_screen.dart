@@ -84,7 +84,7 @@ class MessageScreen extends StatelessWidget {
                   shrinkWrap: true,
                   children: const [
                     MessageItem(
-                      name: 'Combalang Team',
+                      name: 'Comblang Team',
                       message: 'Halo, bagaimana Kabarmu?',
                     ),
                     MessageItem(
@@ -93,19 +93,19 @@ class MessageScreen extends StatelessWidget {
                           'Hey, Kami kelompok 1 ingin mempresentasikan hasil project aplikasi kami',
                     ),
                     MessageItem(
-                      name: 'Combalang Team',
+                      name: 'Comblang Team',
                       message: 'Halo, bagaimana Kabarmu?',
                     ),
                     MessageItem(
-                      name: 'Combalang Team',
+                      name: 'Comblang Team',
                       message: 'Halo, bagaimana Kabarmu?',
                     ),
                     MessageItem(
-                      name: 'Combalang Team',
+                      name: 'Comblang Team',
                       message: 'Halo, bagaimana Kabarmu?',
                     ),
                     MessageItem(
-                      name: 'Combalang Team',
+                      name: 'Comblang Team',
                       message: 'Halo, bagaimana Kabarmu?',
                     ),
                   ],
